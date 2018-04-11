@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PlayTemplate
 
 ## Install Scala IntelliJ Plugin
@@ -75,3 +76,6 @@ Once your repo is clones on your computer, you shouldn't have to clone it again.
 
 
     
+=======
+# PlayAssignmentTest
+>>>>>>> 5cf13f9e4f695fdf62fdfd5b7c6bb767192ac007
