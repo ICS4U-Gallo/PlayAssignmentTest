@@ -78,4 +78,4 @@ Assuming you have IntelliJ already, download and install the IntelliJ scala plug
 Once your repo is clones on your computer, you shouldn't have to clone it again. Simply use the `git` command line and `git pull` in any changes you have made.
 
 
-    
+   
